@@ -31,7 +31,7 @@
   <tr>
     <td>
       <a href="https://github.com/HandersonPanorama">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandersonPanorama&exclude_repo=IA-FIC2021&langs_count=6&theme=dracula&hide_langs_below=1&layout=compact" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandersonPanorama&exclude_repo=IA-FIC2021&langs_count=6&theme=dark&hide_langs_below=1&layout=compact" />
 </a>
     </td>
     <td>
