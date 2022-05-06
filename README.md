@@ -1,2 +1,2 @@
 # HandersonPanorama
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandersonPanorama)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandersonPanorama&show_icons=true&theme=radical)
