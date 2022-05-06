@@ -1,24 +1,24 @@
 <img src="https://github.com/lucasfdelis/lucasfdelis/blob/main/computer-illustration.png?raw=true" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-<h1 align="center">Hi! 👋, I'm Lucas Alves.</h1>
+<h1 align="center">Hi! 👋, Handerson Ramos.</h1>
 
 <br>
 
-<p align="left"><strong>Computer Technician</strong> and studying the <strong>5nd</strong> term of <strong>Computer Engineering</strong> at <strong>IFPB - Campus Campina Grande</strong>. 
+<p align="left"><strong>System Analyst</strong> at <strong>Colégio Panorama</strong> in <strong>Campina Grande-PB</strong>. 
 
 <br>
 
-<p>Be free to contact me! 🤝</p>
+<p>Doubts? what's up! 🤝</p>
 
 <br>
 
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/lucasfdelis/" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/handersonbr1990/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfdelis/" /></a>
   
-  <a href="https://www.instagram.com/lvkinhas/" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/handersonrb/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lvkinhas/"/></a>
 </p>  
 
@@ -38,7 +38,7 @@
 <table align = "center" border = '0'>
   <tr>
     <td>
-      <a href="https://github.com/lucasfdelis">
+      <a href="https://github.com/HandersonPanorama">
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandersonPanorama&exclude_repo=IA-FIC2021&langs_count=6&theme=dracula&hide_langs_below=1&layout=compact" />
 </a>
     </td>
