@@ -1,14 +1,14 @@
 <img src="https://c.tenor.com/CpJSkREXARYAAAAd/computer.gif?raw=true" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-<h1 align="center">Hi! 👋, Handerson Ramos.</h1>
+<h1 align="center">Prazer 🤝, Handerson Ramos.</h1>
 
 <br>
 
-<p align="left"><strong>System Analyst</strong> at <strong>Colégio Panorama</strong> in <strong>Campina Grande-PB</strong>. 
+<p align="left"><strong>Analista de Sistema</strong> do <strong>Colégio Panorama</strong> em  <strong>Campina Grande-PB</strong>. 
 
 <br>
 
-<p>Doubts? what's up! 🤝</p>
+<p>Doubts? what's up! 👋</p>
 
 <br>
 
