@@ -1,4 +1,4 @@
-<img src="https://github.com/lucasfdelis/lucasfdelis/blob/main/computer-illustration.png?raw=true" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://c.tenor.com/CpJSkREXARYAAAAd/computer.gif?raw=true" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 <h1 align="center">Hi! 👋, Handerson Ramos.</h1>
 
