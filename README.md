@@ -36,7 +36,7 @@
     </td>
     <td>
       <a href="https://github.com/HandersonPanorama">
- <img width="454px" align="center" src="https://github-readme-stats.vercel.app/api?username=HandersonPanorama&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img width="454px" align="center" src="https://github-readme-stats.vercel.app/api?username=HandersonPanorama&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
     </td>
   </tr>
